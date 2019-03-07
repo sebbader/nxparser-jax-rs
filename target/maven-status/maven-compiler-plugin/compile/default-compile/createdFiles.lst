@@ -1,0 +1,4 @@
+META-INF\services\org.glassfish.jersey.internal.spi.AutoDiscoverable
+META-INF\services\javax.ws.rs.ext.MessageBodyReader
+META-INF\services\javax.ws.rs.client.ClientResponseFilter
+META-INF\services\javax.ws.rs.ext.MessageBodyWriter
